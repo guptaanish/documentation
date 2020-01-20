@@ -1,0 +1,8 @@
+**/target
+*.classpath
+*.project
+*.prefs
+*.iml
+**/.idea/*
+!**/.idea/runConfigurations
+!**/.idea/saveactions_settings.xml
