@@ -33,18 +33,37 @@
 	Ctrl + Alt + P --> Extract selected code and change it to parameter
 
 ###Code Navigation:
+    Ctrl + A --> Select All
 	Ctrl + B, F4 --> Open selected object / Find usages
-	Ctrl + Alt + B --> Find implementations
+	Ctrl + C --> Copy
+	Ctrl + D --> Delete line
+	Ctrl + E --> Show recent files
+	Ctrl + F --> Find
+	Ctrl + G --> Go to line
+	Ctrl + H --> To see the inheritance hierarchy for a selected class
+	Ctrl + I --> To implement methods of the interfaces (or of the abstract base class) that the current class implements
+	Ctrl + J --> Smart insert code 
+	Ctrl + K --> Git push
+	Ctrl + L --> Find
+	Ctrl + M --> Move the cursor to center 
+	Ctrl + N --> Search class file
+	Ctrl + O --> You can easily override methods of the base class
 	Ctrl + P --> View | Parameter Info
 	Ctrl + Q --> View | Quick Documentation
+ 	Ctrl + R --> Search and replace
+ 	Ctrl + S --> Save
+ 	Ctrl + T --> Git update
 	Ctrl + U --> Open base class
+	Ctrl + V --> Paste
+	Ctrl + W / (Ctrl + Shift + W) --> Select blocks
+	Ctrl + X --> Cut
+	Ctrl + Y --> Delete line
+	Ctrl + Z --> Undo
+	Ctrl + Alt + B --> Find implementations
 	Ctrl + F12 --> Show file structure, methods, constructor etc
 	Ctrl + Shift + F7 --> To view all methods of the implemented interfaces in a class, place the caret at the implements keyword in the class declaration
 	Ctrl + Shift + F7 --> To view all exit points of a method, place the caret at one of them, for example the return statement
 	Ctrl + Shift + F7 --> You can view all statements within the method where certain exceptions can be caught. Place the caret at the throws statement
-	Ctrl + H --> To see the inheritance hierarchy for a selected class
-	Ctrl + U --> Open base class
-	Ctrl + E --> Show recent files
 	Ctrl + Shift + E --> Show recent locations
 	Alt + F7 --> Find usages
 
@@ -53,8 +72,6 @@
 
 ###Miscellaneous:
 	Ctrl + Shift + U --> Change case
-	Ctrl + O --> You can easily override methods of the base class
-	Ctrl + I --> To implement methods of the interfaces (or of the abstract base class) that the current class implements
 	Ctrl + Alt + Up / Down --> To jump between error messages or search results
 	Ctrl + Shift + J --> To join two lines into one and remove unnecessary spaces
 	Ctrl + Shift + Up / Down --> The Code | Move Statement Up/Down actions are useful for reorganizing code lines, for example for bringing a variable declaration closer to the variable usage.
@@ -85,8 +102,8 @@
 	Ctrl + Shift + Numpad (-) --> Collapse All
 
 ###Search Commands:
-	Shift twice --> Search All Files
-	Ctrl + N --> Search class file
+		Ctrl + N --> Search class file
+Shift twice --> Search All Files
 	Ctrl + Shift + N --> Search Files
 	Ctrl + Shift + A --> Search Actions
 	Ctrl + Shift + Alt + N --> Search Symbols
