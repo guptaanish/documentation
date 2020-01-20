@@ -1,7 +1,7 @@
-##Intellij Plugins
+##IntelliJ Plugins
 1. Save actions
 2. Do not use smart tabs and change to tabs
-3. Donot add '*' in imports
+3. Do not add '*' in imports
 4. change import order javax.*, nl, java.*, nl, sun.*, nl, org.*,nl, other
 5. Builder generator
 6. Lombok plugin
@@ -11,48 +11,26 @@
 10. Sonar lint
 11. Protobuff support
 
-###Search commands:
-	Shift twice --> Search All Files
-	Ctrl + N --> Search class file
-	Ctrl + Shift + N --> Search Files
-	Ctrl + Shift + A --> Search Actions
-	Ctrl + Shift + Alt + N --> Search Symbols
-
-###Settings:
-	Ctrl + Alt + S --> Settings
-	Ctrl + Shift + Alt + S --> Project Stucture
-
-###Text selection / Highlight:
+###Text Selection / Highlight:
 	Alt + J / (Shift + Alt + J) --> Highlight next selection
 	Ctrl + Alt + Shift + J --> Highlight all occurrences of a text
 	Ctrl + W / (Ctrl + Shift + W) --> Select blocks
 	F3 / (Shift + F3) --> Find next / previous occurrences
 
-###Code completions / insertion:
+###Code Completions / Insertion:
 	Ctrl + J --> Smart insert code 
 	Ctrl + Alt + T --> Surround with
 	Alt + Insert --> Generate constructor, getter & setters etc
 	(dot) .
 
+###Refactoring:
+	Ctrl + Shift + Alt + T --> Refactor context window
+	
 ###Extract to variable / constant:
 	Ctrl + Alt + V --> to a local variable
  	Ctrl + Alt + C --> Constant
 	Ctrl + Alt + M --> Extract selected code to a method
 	Ctrl + Alt + P --> Extract selected code and change it to parameter
-
-###Refactoring:
-	Ctrl + Shift + Alt + T --> Refactor context window
-
-###Git Command:
-	Ctrl + K --> Commit
-	Ctrl + Shift + K --> Rollback
-	Ctrl + T --> Git update
-
-###Collapse:
-	Ctrl + Numpad (+) --> Expand method
-	Ctrl + Numpad (-) --> Collapse method
-	Ctrl + Shift + Numpad (+) --> Expand All
-	Ctrl + Shift + Numpad (-) --> Collapse All
 
 ###Code Navigation:
 	Ctrl + B, F4 --> Open selected object / Find usages
@@ -73,7 +51,7 @@
 ###Debug:
 	Alt + F8 --> Evaluate any expression
 
-###Misc:
+###Miscellaneous:
 	Ctrl + Shift + U --> Change case
 	Ctrl + O --> You can easily override methods of the base class
 	Ctrl + I --> To implement methods of the interfaces (or of the abstract base class) that the current class implements
@@ -94,6 +72,28 @@
 	Alt + 7 --> Go to structure
 	Alt + 8 --> Go to services
 	Alt + 9 --> Go to version control
+
+###Git Command:
+	Ctrl + K --> Commit
+	Ctrl + Shift + K --> Rollback
+	Ctrl + T --> Git update
+
+###Collapse:
+	Ctrl + Numpad (+) --> Expand method
+	Ctrl + Numpad (-) --> Collapse method
+	Ctrl + Shift + Numpad (+) --> Expand All
+	Ctrl + Shift + Numpad (-) --> Collapse All
+
+###Search Commands:
+	Shift twice --> Search All Files
+	Ctrl + N --> Search class file
+	Ctrl + Shift + N --> Search Files
+	Ctrl + Shift + A --> Search Actions
+	Ctrl + Shift + Alt + N --> Search Symbols
+
+###Settings:
+	Ctrl + Alt + S --> Settings
+	Ctrl + Shift + Alt + S --> Project Stucture
 	
 * To scroll a file horizontally, turn the mouse wheel while keeping pressed.
 * When you invoke Basic Completion Ctrl+Space, IntelliJ IDEA Community suggests the choices that are reacheable from the current caret position. Press Ctrl+Space again to also see inaccessible classes and members .
