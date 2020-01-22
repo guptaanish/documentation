@@ -72,7 +72,21 @@
 	Ctrl + Shift + F12 --> Toggle maximizing editor
 	Ctrl + Shift + E --> Show recent locations
 	Ctrl + Shift + ] / [ --> Select till code block end / start
-	Alt + F7 --> Find usages
+    Ctrl + Shift + H --> Method hierarchy
+    Ctrl + Alt + H --> Call hierarchy
+    Ctrl + Shift + F7 --> Highlight usages in file
+    Ctrl + Alt + F7 --> Show usages in a popup window   
+    Ctrl + F7 --> Find usages in current file
+	Alt + F7 --> Find usages in all files
+
+###Compile and Run:
+    Ctrl + F9 --> Make project
+    Ctrl + Shift + F9 --> Compile selected file, package or module
+    Alt + Shift + F9 --> Select configuration and debug
+    Alt + Shift + F10 --> Select configuration and run 
+    Shift + F10 --> Run
+    Shift + F9 --> Debug
+    Ctrl + Shift + F10 --> Run context configuration from editor
 
 ###Debug:
 	Alt + F8 --> Evaluate any expression
@@ -98,10 +112,11 @@
 	Alt + 9 --> Go to version control
 
 ###Git Command:
-	Ctrl + K --> Commit
-	Ctrl + Shift + K --> Rollback
 	Ctrl + T --> Git update
+	Ctrl + K --> Commit
+	Ctrl + Shift + K --> Push
 	Ctrl + Shift + ` --> Opens Git Branches popup
+	Alt + ` --> VCS quick popup
 
 ###Collapse:
 	Ctrl + Numpad (+) --> Expand method
