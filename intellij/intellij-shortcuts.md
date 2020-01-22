@@ -25,13 +25,18 @@
 
 ###Refactoring:
 	Ctrl + Shift + Alt + T --> Refactor context window
-	
-###Extract to variable / constant:
 	Ctrl + Alt + V --> to a local variable
  	Ctrl + Alt + C --> Constant
 	Ctrl + Alt + M --> Extract selected code to a method
 	Ctrl + Alt + P --> Extract selected code and change it to parameter
-
+    Ctrl + Alt + F --> Extract Field
+    Ctrl + Alt + N --> Inline
+    Ctrl + F6 --> Change Signature
+    Alt + Delete --> Safe Delete 
+    Shift + F6 --> Rename
+    F5 --> Copy
+    F6 --> Move
+    
 ###Code Navigation:
     Ctrl + A --> Select All
 	Ctrl + B, F4 --> Open selected object / Find usages
@@ -64,7 +69,9 @@
 	Ctrl + Shift + F7 --> To view all methods of the implemented interfaces in a class, place the caret at the implements keyword in the class declaration
 	Ctrl + Shift + F7 --> To view all exit points of a method, place the caret at one of them, for example the return statement
 	Ctrl + Shift + F7 --> You can view all statements within the method where certain exceptions can be caught. Place the caret at the throws statement
+	Ctrl + Shift + F12 --> Toggle maximizing editor
 	Ctrl + Shift + E --> Show recent locations
+	Ctrl + Shift + ] / [ --> Select till code block end / start
 	Alt + F7 --> Find usages
 
 ###Debug:
