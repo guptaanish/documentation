@@ -93,6 +93,7 @@
 
 ###Miscellaneous:
 	Ctrl + Shift + U --> Change case
+	Ctrl + Shift + V --> Paste from history
 	Ctrl + Alt + Up / Down --> To jump between error messages or search results
 	Ctrl + Shift + J --> To join two lines into one and remove unnecessary spaces
 	Ctrl + Shift + Up / Down --> The Code | Move Statement Up/Down actions are useful for reorganizing code lines, for example for bringing a variable declaration closer to the variable usage.
