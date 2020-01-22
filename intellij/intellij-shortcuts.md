@@ -94,6 +94,7 @@
 	Ctrl + K --> Commit
 	Ctrl + Shift + K --> Rollback
 	Ctrl + T --> Git update
+	Ctrl + Shift + ` --> Opens Git Branches popup
 
 ###Collapse:
 	Ctrl + Numpad (+) --> Expand method
