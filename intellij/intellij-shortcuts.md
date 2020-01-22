@@ -125,8 +125,8 @@
 	Ctrl + Shift + Numpad (-) --> Collapse All
 
 ###Search Commands:
-		Ctrl + N --> Search class file
-Shift twice --> Search All Files
+	Ctrl + N --> Search class file
+    Shift twice --> Search All Files
 	Ctrl + Shift + N --> Search Files
 	Ctrl + Shift + A --> Search Actions
 	Ctrl + Shift + Alt + N --> Search Symbols
