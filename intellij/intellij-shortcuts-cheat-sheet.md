@@ -1,5 +1,6 @@
 ##IntelliJ Plugins
 1. Save actions
+    (Add only those file extension which you need to be auto formatted when saved)
 2. Do not use smart tabs and change to tabs
 3. Do not add '*' in imports
 4. change import order javax.*, nl, java.*, nl, sun.*, nl, org.*,nl, other
