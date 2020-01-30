@@ -26,11 +26,11 @@
 
 ###Refactoring:
 	Ctrl + Shift + Alt + T --> Refactor context window
-	Ctrl + Alt + V --> to a local variable
- 	Ctrl + Alt + C --> Constant
+    Ctrl + Alt + F --> Extract to a field
+	Ctrl + Alt + V --> Extract to a local variable
+	Ctrl + Alt + P --> Extract to a parameter
+ 	Ctrl + Alt + C --> Extract to a constant (public static ....)
 	Ctrl + Alt + M --> Extract selected code to a method
-	Ctrl + Alt + P --> Extract selected code and change it to parameter
-    Ctrl + Alt + F --> Extract field
     Ctrl + Alt + N --> Inline
     Ctrl + F6 --> Change signature
     Alt + Delete --> Safe Delete 
