@@ -30,9 +30,9 @@
  	Ctrl + Alt + C --> Constant
 	Ctrl + Alt + M --> Extract selected code to a method
 	Ctrl + Alt + P --> Extract selected code and change it to parameter
-    Ctrl + Alt + F --> Extract Field
+    Ctrl + Alt + F --> Extract field
     Ctrl + Alt + N --> Inline
-    Ctrl + F6 --> Change Signature
+    Ctrl + F6 --> Change signature
     Alt + Delete --> Safe Delete 
     Shift + F6 --> Rename
     F5 --> Copy
