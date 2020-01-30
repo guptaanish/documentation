@@ -50,7 +50,7 @@
 	Ctrl + I --> To implement methods of the interfaces (or of the abstract base class) that the current class implements
 	Ctrl + J --> Smart insert code 
 	Ctrl + K --> Git push
-	Ctrl + L --> Find
+	Ctrl + L --> Find (Works same as Ctrl + F)
 	Ctrl + M --> Move the cursor to center 
 	Ctrl + N --> Search class file
 	Ctrl + O --> You can easily override methods of the base class
@@ -76,9 +76,10 @@
     Ctrl + Shift + H --> Method hierarchy
     Ctrl + Alt + H --> Call hierarchy
     Ctrl + Shift + F7 --> Highlight usages in file
-    Ctrl + Alt + F7 --> Show usages in a popup window   
+    Ctrl + Alt + F7 --> Show usages in a popup window
     Ctrl + F7 --> Find usages in current file
 	Alt + F7 --> Find usages in all files
+	Ctrl + ` 
 
 ###Compile and Run:
     Ctrl + F9 --> Make project
@@ -101,7 +102,7 @@
 	F2 / Shift + F2 --> To jump to the next or previous error respectively in the current file.
 	F2 / Shift + F2 --> To jump between the highlighted syntax errors.
 	Alt + Shift + C --> To quickly review recent changes to the project.
-	Alt + Shift + F --> 
+	Alt + Shift + F --> Bookmarks
 	Shift + F1 -->
 	Ctrl + Alt + Shift + Insert --> To create a scratch file, then select the language to use.
 	Alt + 0 --> Go to messages
